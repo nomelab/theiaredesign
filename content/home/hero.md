@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Introducing the Theiascope™ platform f
-hero_media: book.svg
+title: Introducing the Theiascope™ platform 
+hero_media: heroimage.jpg
 design:
   background:
     gradient_start: '#4bb4e3'
@@ -14,16 +14,8 @@ cta:
   label: See a Demo
   icon_pack: fas
   icon: fa-solid fa-microscope
-cta_alt:
-  url: docs/
-  label: View Documentation
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
 ---
 
-Artificial Intelligence for Your Microscopy Workflow
+Artificial Intelligence for Your Microscope
 
 

@@ -29,12 +29,13 @@ cta_alt:
 ---
 
 <br>
-Artificial Intelligence for Your Microscope
-{{< icon name="check" pack="fas" >}} Python backend
-{{< icon name="check" pack="fas" >}} Modern web-browser interface
-{{< icon name="check" pack="fas" >}} Works without the cloud
-{{< icon name="check" pack="fas" >}} No proprietary data formats
-{{< icon name="check" pack="fas" >}} User customizable dashboards
+#Artificial Intelligence for Your Microscope<br>
+
+##{{< icon name="check" pack="fas" >}} Python backend<br>
+##{{< icon name="check" pack="fas" >}} Modern web-browser interface<br>
+##{{< icon name="check" pack="fas" >}} Works without the cloud<br>
+##{{< icon name="check" pack="fas" >}} No proprietary data formats<br>
+##{{< icon name="check" pack="fas" >}} User customizable dashboards<br>
 <br>
 <br>
 <br>

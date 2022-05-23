@@ -20,7 +20,7 @@ design:
     text_color_light: true
 cta:
   url: docs/
-  label: See a Demo
+  label:  See a Demo
   icon_pack: fas
   icon: fa-solid fa-microscope
 cta_alt:
@@ -30,7 +30,11 @@ cta_alt:
 
 <br>
 Artificial Intelligence for Your Microscope
-<br>
+{{< icon name="check" pack="fas" >}} Python backend
+{{< icon name="check" pack="fas" >}} Modern web-browser interface
+{{< icon name="check" pack="fas" >}} Works without the cloud
+{{< icon name="check" pack="fas" >}} No proprietary data formats
+{{< icon name="check" pack="fas" >}} User customizable dashboards
 <br>
 <br>
 <br>

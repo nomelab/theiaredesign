@@ -23,9 +23,17 @@ cta:
   label: See a Demo
   icon_pack: fas
   icon: fa-solid fa-microscope
+cta_alt:
+  url: docs/
+  label: Get a Quote
 ---
 
+<br>
 Artificial Intelligence for Your Microscope
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 

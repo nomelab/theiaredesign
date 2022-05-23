@@ -13,7 +13,7 @@ design:
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
-    image_position: center
+    image_position: right
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
@@ -29,16 +29,16 @@ cta_alt:
 ---
 
 <br>
-#Artificial Intelligence for Your Microscope<br>
+Artificial Intelligence for Your Microscope<br>
 
-##{{< icon name="check" pack="fas" >}} Python backend<br>
-##{{< icon name="check" pack="fas" >}} Modern web-browser interface<br>
-##{{< icon name="check" pack="fas" >}} Works without the cloud<br>
-##{{< icon name="check" pack="fas" >}} No proprietary data formats<br>
-##{{< icon name="check" pack="fas" >}} User customizable dashboards<br>
+{{< icon name="check" pack="fas" >}} Python backend<br>
+{{< icon name="check" pack="fas" >}} Modern web-browser interface<br>
+{{< icon name="check" pack="fas" >}} Works without the cloud<br>
+{{< icon name="check" pack="fas" >}} No proprietary data formats<br>
+{{< icon name="check" pack="fas" >}} User customizable dashboards<br>
 <br>
 <br>
 <br>
 <br>
 <br>
-
+<br>

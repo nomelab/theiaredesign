@@ -31,11 +31,11 @@ cta_alt:
 <br>
 Artificial Intelligence for Your Microscope<br>
 
-{{< icon name="check" pack="fas" >}} Python backend<br>
-{{< icon name="check" pack="fas" >}} Modern web-browser interface<br>
-{{< icon name="check" pack="fas" >}} Works without the cloud<br>
-{{< icon name="check" pack="fas" >}} No proprietary data formats<br>
-{{< icon name="check" pack="fas" >}} User customizable dashboards<br>
+{{< icon name="check-circle" pack="fas" >}} Python backend<br>
+{{< icon name="check-circle" pack="fas" >}} Modern web-browser interface<br>
+{{< icon name="check-circle" pack="fas" >}} Works without the cloud<br>
+{{< icon name="check-circle" pack="fas" >}} No proprietary data formats<br>
+{{< icon name="check-circle" pack="fas" >}} User customizable dashboards<br>
 <br>
 <br>
 <br>

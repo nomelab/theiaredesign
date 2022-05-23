@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: theia_theme
+  theme_night: theia_theme
   font: minimal
   font_size: L
 

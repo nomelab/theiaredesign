@@ -1,0 +1,16 @@
+# Theme metadata
+name = "theia_theme"
+
+[light]
+  # Primary
+  primary = "#06ef82"
+
+  # Menu
+  menu_primary = "#06ef82"
+  menu_text = "#fff"
+  menu_text_active = "#5eb090"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"

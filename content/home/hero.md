@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Introducing the Theiascope™ platform 
-hero_media: heroimage.jpg
+hero_media: 
 design:
   background:
     # Name of image in `assets/media/`.

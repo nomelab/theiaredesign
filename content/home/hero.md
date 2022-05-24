@@ -29,10 +29,10 @@ cta_alt:
 ---
 
 <br>
-Artificial Intelligence for Your Microscope<br>
+<font size="+30">Artificial Intelligence for Your Microscope</font><br>
 
-Better, consistent  microsocpy results and <font size="+2">faster</font><br>
-<font size="-1">Theia's full-feature platform helps scientists and engineers accelerate their microscopy workflows.</font> <br>
+Better, consistent  microscopy results and <font size="+15">faster</font><br>
+<font size="+1">Theia's full-feature platform helps scientists and engineers accelerate their microscopy workflows.</font> <br>
 <br>
 <br>
 <br>

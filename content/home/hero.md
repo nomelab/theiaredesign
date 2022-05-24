@@ -31,11 +31,8 @@ cta_alt:
 <br>
 Artificial Intelligence for Your Microscope<br>
 
-{{< icon name="check-circle" pack="fas" >}} Python backend<br>
-{{< icon name="check-circle" pack="fas" >}} Modern web-browser interface<br>
-{{< icon name="check-circle" pack="fas" >}} Works without the cloud<br>
-{{< icon name="check-circle" pack="fas" >}} No proprietary data formats<br>
-{{< icon name="check-circle" pack="fas" >}} User customizable dashboards<br>
+Better, consistent  microsocpy results and <font size="+2">faster</font><br>
+<font size="-1">Theia's full-feature platform helps scientists and engineers accelerate their microscopy workflows.</font> <br>
 <br>
 <br>
 <br>
